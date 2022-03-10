@@ -9,12 +9,12 @@
 format: jb-book
 root: index
 parts:
-  - caption: Name of Numbered Part 1
-    numbered: True  # Only applies to chapters in Part 1.
+  - caption: Part 1
+    numbered: false  # Only applies to chapters in Part 1.
     chapters:
     - file: getting_started.md
     - file: learn_more.md
-  - caption: Name of Not-numbered Part 2
+  - caption: Part 2
     chapters:
     - file: intro.md
     - file: python_by_example.md
