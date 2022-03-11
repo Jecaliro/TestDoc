@@ -1,13 +1,16 @@
-# Hello Markdown in VS Code!
+# Software architecture
 
-This is a simple introduction to compiling Markdown in VS Code.
+ Software architecture is based in one hand, on a master application managing most Devices, and on another hand, on several procedure executing the test (call instances);
 
-Things you'll need:
 
-* [Node.js](https://nodejs.org)
-* [markdown-it](https://www.npmjs.com/package/markdown-it)
-* [tasks.json](/docs/editor/tasks)
+![Architecture](images/Global_architecture.png)
 
-## Section Title
 
-> This block quote is here for your information.
+
+In this tutorial, you learn how to:
+
+> [!div class="checklist"]
+> * All tutorials include a list summarizing the steps to completion
+> * Each of these bullet points align to a key H2
+> * Use these green checkboxes in a tutorial
+
